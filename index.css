@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+#Coche_1{
+    display: inline-block;
+    width: 45%;
+}
+#Coche_2{
+    display: inline-block;
+    width: 54%;
+}
+p{
+    padding-right: 5%;
+    text-align: justify;
+}
+#Furgoneta{
+    padding-right: 1%;
+}
