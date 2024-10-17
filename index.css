@@ -4,15 +4,14 @@ h1{
 #Coche_1{
     display: inline-block;
     width: 45%;
+    height: 40%;
 }
 #Coche_2{
     display: inline-block;
     width: 54%;
+    height: 40%;
 }
 p{
     padding-right: 5%;
     text-align: justify;
-}
-#Furgoneta{
-    padding-right: 1%;
 }
