@@ -27,7 +27,7 @@ section {
 }
 
 h2 {
-    width: 100%;
+    width: 50%;
     text-align: justify;
     font-size: 1.5em;
 }
@@ -114,6 +114,9 @@ footer {
     width: 100%;
 }
 @media(max-width:600px){
+    h3{
+        font-size: smaller;
+    }
     article{
         width: 100%;
     }
