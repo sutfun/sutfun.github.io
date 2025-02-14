@@ -125,4 +125,7 @@ footer {
     header{
         flex-wrap: wrap;
     }
+    ol{
+        gap:100px;
+    }
 }
