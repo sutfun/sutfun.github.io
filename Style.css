@@ -3,6 +3,7 @@ body {
     margin: 0 auto;
     display: flex;
     flex-direction: column;
+    flex-wrap: nowrap;
 }
 
 header {
@@ -11,6 +12,7 @@ header {
     justify-content: space-between;
     align-items: center;
     width: 100%;
+    
 }
 main {
     display: flex;
@@ -119,5 +121,8 @@ footer {
     }
     article{
         width: 100%;
+    }
+    header{
+        flex-wrap: wrap;
     }
 }
